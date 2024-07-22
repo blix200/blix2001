@@ -1,7 +1,7 @@
 local gameIDs = {
     [3993508361] = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/blix2001/main/sw2"))()',
     [3274505236] = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/blix2001/main/nc"))()',
-    [4864117649] = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/MainLoadshiz/main/obf_krI8TV8y82847eQf3GYE2t0w0g4WVMFKf47v9u53kZsndg509DgRcWt5lzOi7Hu5.lua"))()'
+    [4263576532] = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/blix2001/main/cs"))()'
 }
 
 

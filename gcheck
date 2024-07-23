@@ -1,6 +1,7 @@
 local gameIDs = {
     [3993508361] = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/blix2001/main/sw2"))()',
     [3274505236] = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/blix2001/main/nc"))()',
+    [3647978359] = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/blix2001/main/this%20buttflucker%202.0"))()',
     [4263576532] = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/blix2001/main/cs"))()'
 }
 
